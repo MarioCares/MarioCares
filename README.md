@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mario - welcome to my GitHub profile.
 
-<img src="https://github.com/ProfeMarioStomas/ProfeMarioStomas/blob/main/banner-github.png" alt="Github banner">
+<img src="https://github.com/MarioCares/ProfeMarioStomas/blob/main/banner-github.png" alt="Github banner">
 
 🎬 I've been programming for over 10 years, and here I share my current code, written in Java and TypeScript.
 
@@ -29,8 +29,8 @@
 
 <hr>
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProfeMarioStomas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProfeMarioStomas&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarioCares&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarioCares&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <!--
